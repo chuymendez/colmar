@@ -1,6 +1,7 @@
 * {
     /* box-sizing: border-box; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 nav {
@@ -18,3 +19,5 @@ nav {
 li:last-child > a {
     padding-right: 24px;
 }
+
+
